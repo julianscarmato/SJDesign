@@ -1,0 +1,710 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.julianscarmato.com.ar" resolutions="1x" timestamp="1596548240010">
+  <folder name="css">
+    <file name="site_global.css" crc="3798390381"/>
+    <file name="master_a-p_g_-maestra.css" crc="4111168812" ref="personal:seo:gráfico:diseño-web:contacto:marketing-digital:redes-sociales:blog:corporativa:index:trabajos:ecommerce:e-commerce:servicios:diseño-gráfico:web:fotografía:fotografia"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="249295531" ref="personal:seo:gráfico:diseño-web:contacto:marketing-digital:redes-sociales:blog:corporativa:index:trabajos:ecommerce:e-commerce:servicios:diseño-gráfico:web:fotografía:fotografia"/>
+    <file name="personal.css" crc="486949318" ref="personal"/>
+    <file name="nomq_personal.css" crc="167453671" ref="personal"/>
+    <file name="iefonts_personal.css" crc="4177387711" ref="personal"/>
+    <file name="seo.css" crc="158890656" ref="seo"/>
+    <file name="nomq_seo.css" crc="92136464" ref="seo"/>
+    <file name="iefonts_seo.css" crc="4177387711" ref="seo"/>
+    <file name="gr_fico.css" crc="267722139" ref="gráfico"/>
+    <file name="nomq_gr_fico.css" crc="3879136031" ref="gráfico"/>
+    <file name="iefonts_gr_fico.css" crc="4177387711" ref="gráfico"/>
+    <file name="dise_o-web.css" crc="155329474" ref="diseño-web"/>
+    <file name="nomq_dise_o-web.css" crc="4078059942" ref="diseño-web"/>
+    <file name="iefonts_dise_o-web.css" crc="4177387711" ref="diseño-web"/>
+    <file name="contacto.css" crc="85924217" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="3801646947" ref="contacto"/>
+    <file name="iefonts_contacto.css" crc="4177387711" ref="contacto"/>
+    <file name="marketing-digital.css" crc="443986239" ref="marketing-digital"/>
+    <file name="nomq_marketing-digital.css" crc="4184698590" ref="marketing-digital"/>
+    <file name="iefonts_marketing-digital.css" crc="4177387711" ref="marketing-digital"/>
+    <file name="redes-sociales.css" crc="4184464834" ref="redes-sociales"/>
+    <file name="nomq_redes-sociales.css" crc="4120536660" ref="redes-sociales"/>
+    <file name="iefonts_redes-sociales.css" crc="4177387711" ref="redes-sociales"/>
+    <file name="blog.css" crc="254813408" ref="blog"/>
+    <file name="nomq_blog.css" crc="471480817" ref="blog"/>
+    <file name="iefonts_blog.css" crc="4177387711" ref="blog"/>
+    <file name="corporativa.css" crc="4022141518" ref="corporativa"/>
+    <file name="nomq_corporativa.css" crc="474817244" ref="corporativa"/>
+    <file name="iefonts_corporativa.css" crc="4177387711" ref="corporativa"/>
+    <file name="index.css" crc="191819458" ref="index"/>
+    <file name="nomq_index.css" crc="3842607989" ref="index"/>
+    <file name="iefonts_index.css" crc="4177387711" ref="index"/>
+    <file name="trabajos.css" crc="4037899340" ref="trabajos"/>
+    <file name="nomq_trabajos.css" crc="347990238" ref="trabajos"/>
+    <file name="iefonts_trabajos.css" crc="4177387711" ref="trabajos"/>
+    <file name="ecommerce.css" crc="3843711480" ref="ecommerce"/>
+    <file name="nomq_ecommerce.css" crc="122930485" ref="ecommerce"/>
+    <file name="iefonts_ecommerce.css" crc="4177387711" ref="ecommerce"/>
+    <file name="e-commerce.css" crc="4000618065" ref="e-commerce"/>
+    <file name="nomq_e-commerce.css" crc="419598043" ref="e-commerce"/>
+    <file name="iefonts_e-commerce.css" crc="4177387711" ref="e-commerce"/>
+    <file name="servicios.css" crc="208596391" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="411538402" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="4177387711" ref="servicios"/>
+    <file name="dise_o-gr_fico.css" crc="19352853" ref="diseño-gráfico"/>
+    <file name="nomq_dise_o-gr_fico.css" crc="171867120" ref="diseño-gráfico"/>
+    <file name="iefonts_dise_o-gr_fico.css" crc="4177387711" ref="diseño-gráfico"/>
+    <file name="web.css" crc="3809721672" ref="web"/>
+    <file name="nomq_web.css" crc="4057421359" ref="web"/>
+    <file name="iefonts_web.css" crc="4177387711" ref="web"/>
+    <file name="fotograf_a.css" crc="197433551" ref="fotografía"/>
+    <file name="nomq_fotograf_a.css" crc="456686394" ref="fotografía"/>
+    <file name="iefonts_fotograf_a.css" crc="4177387711" ref="fotografía"/>
+    <file name="fotografia.css" crc="3826913872" ref="fotografia"/>
+    <file name="nomq_fotografia.css" crc="147406227" ref="fotografia"/>
+    <file name="iefonts_fotografia.css" crc="4177387711" ref="fotografia"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="museutils.js" crc="3939489907" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contacto:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u168241.php" crc="212965640" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:contacto:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:contacto:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:contacto:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="form-u47600.php" crc="3926718254" ref="index"/>
+    <file name="form-u174560.php" crc="4222296793" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:trabajos:servicios:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:ecommerce"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="require.js" crc="4177726516" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="form-u299860.php" crc="47151198" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3862404902" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contacto:blog:trabajos:servicios:fotografía:seo:diseño-web:redes-sociales:diseño-gráfico:e-commerce:web:fotografia:gráfico:marketing-digital:corporativa:ecommerce:personal"/>
+    <file name="9692b00f.png" crc="128280190" ref="index:contacto:blog:diseño-web:e-commerce:corporativa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="corporativa" alt=""/>
+      <caption webpage="corporativa" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="christopher-gower-291246-unsplash.jpg" crc="367853375" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="114581231" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr.jpg" crc="3913923290" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr2.jpg" crc="63957978" ref="index"/>
+    <file name="12-u47069-fr.jpg" crc="277892571" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr3.jpg" crc="197426693" ref="index"/>
+    <file name="12-u47069-fr2.jpg" crc="4271281947" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr4.jpg" crc="3934228618" ref="index"/>
+    <file name="12-u47069-fr3.jpg" crc="374060553" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr5.jpg" crc="4028947662" ref="index"/>
+    <file name="12-u47069-fr4.jpg" crc="4210651081" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr6.jpg" crc="272643748" ref="index"/>
+    <file name="12-u47069-fr5.jpg" crc="120596941" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr7.jpg" crc="530197962" ref="index"/>
+    <file name="12-u47069-fr6.jpg" crc="153786667" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr8.jpg" crc="508711969" ref="index"/>
+    <file name="sj menu.svg" crc="3949410612" ref="index:contacto:diseño-web:corporativa"/>
+    <file name="sj menu_poster_u41290.png" crc="4044861154" ref="index:contacto:diseño-web:corporativa"/>
+    <file name="sj menu x.svg" crc="410844995" ref="index:contacto:diseño-web:corporativa"/>
+    <file name="sj menu x_poster_u41282.png" crc="4128839243" ref="index:contacto:diseño-web:corporativa"/>
+    <file name="12-u47069-fr7.jpg" crc="376445697" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr9.jpg" crc="147958001" ref="index"/>
+    <file name="12-u47069-fr8.jpg" crc="3787709210" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr10.jpg" crc="53452817" ref="index"/>
+    <file name="12-u47069-fr9.jpg" crc="4050009624" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr11.jpg" crc="200685125" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr12.jpg" crc="4217653280" ref="index"/>
+    <file name="12-u47069-fr10.jpg" crc="154478251" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr13.jpg" crc="4234354154" ref="index"/>
+    <file name="12-u47069-fr11.jpg" crc="4052504347" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr14.jpg" crc="3960590375" ref="index"/>
+    <file name="12-u47069-fr12.jpg" crc="3996803061" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr15.jpg" crc="106348581" ref="index"/>
+    <file name="12-u47069-fr13.jpg" crc="4259838303" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr16.jpg" crc="247758235" ref="index"/>
+    <file name="12-u47069-fr14.jpg" crc="4196907856" ref="index"/>
+    <file name="christopher-gower-291246-unsplash-u46522-fr17.jpg" crc="469982410" ref="index"/>
+    <file name="contacto fondo.jpg" crc="3762487602" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="contacto .jpg" crc="428844082" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="contacto fondo-u299848-fr.jpg" crc="4294896177" ref="contacto"/>
+    <file name="contacto -u303967-fr.jpg" crc="403309830" ref="contacto"/>
+    <file name="contacto fondo-u299848-fr2.jpg" crc="3942055023" ref="contacto"/>
+    <file name="contacto -u303967-fr2.jpg" crc="530879988" ref="contacto"/>
+    <file name="contacto fondo-u299848-fr3.jpg" crc="318001551" ref="contacto"/>
+    <file name="contacto -u303967-fr3.jpg" crc="4277827701" ref="contacto"/>
+    <file name="contacto fondo-u299848-fr4.jpg" crc="476974572" ref="contacto"/>
+    <file name="contacto -u303967-fr4.jpg" crc="4099849439" ref="contacto"/>
+    <file name="contacto -u303967-fr5.jpg" crc="4047043061" ref="contacto"/>
+    <file name="contacto fondo-u299848-fr5.jpg" crc="64397258" ref="contacto"/>
+    <file name="contacto -u303967-fr6.jpg" crc="3823517145" ref="contacto"/>
+    <file name="contacto fondo-u299848-fr6.jpg" crc="4003795786" ref="contacto"/>
+    <file name="trabajoss.jpg" crc="178530854" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="work 01.jpg" crc="70012606" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="trabajoss-u264277-fr.jpg" crc="42061904" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr2.jpg" crc="392332645" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr3.jpg" crc="3961555318" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr4.jpg" crc="3860298852" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr5.jpg" crc="4257786440" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr6.jpg" crc="432851930" ref="trabajos"/>
+    <file name="work 01-u264291-fr.jpg" crc="3803495375" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr7.jpg" crc="261601314" ref="trabajos"/>
+    <file name="work 01-u264291-fr2.jpg" crc="4012290932" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr8.jpg" crc="4221931510" ref="trabajos"/>
+    <file name="work 01-u264291-fr3.jpg" crc="449348897" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr9.jpg" crc="3861306873" ref="trabajos"/>
+    <file name="work 01-u264291-fr4.jpg" crc="3986422497" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr10.jpg" crc="3915856467" ref="trabajos"/>
+    <file name="work 01-u264291-fr5.jpg" crc="134334008" ref="trabajos"/>
+    <file name="trabajoss-u264277-fr11.jpg" crc="522808654" ref="trabajos"/>
+    <file name="work 01-u264291-fr6.jpg" crc="39947710" ref="trabajos"/>
+    <file name="asdf1.jpg" crc="4032593811" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="diafragma-de-la-camara.svg" crc="430226748" ref="servicios"/>
+    <file name="diafragma-de-la-camara_poster_u82463.png" crc="3937355077" ref="servicios"/>
+    <file name="analisis.svg" crc="3964821041" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="analisis_poster_.png" crc="4083976838" ref="servicios"/>
+    <file name="promocion.svg" crc="3848739034" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="promocion_poster_.png" crc="55401590" ref="servicios"/>
+    <file name="tienda-online.svg" crc="11924777" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tienda-online_poster_.png" crc="4229780307" ref="servicios"/>
+    <file name="sensible.svg" crc="13992908" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sensible_poster_.png" crc="4173950855" ref="servicios"/>
+    <file name="vector.svg" crc="4106756764" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="vector_poster_.png" crc="184501707" ref="servicios"/>
+    <file name="red.svg" crc="173786880" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="red_poster_.png" crc="419869731" ref="servicios"/>
+    <file name="asdf1-u81285-fr.jpg" crc="111892165" ref="servicios"/>
+    <file name="asdf1-u81285-fr2.jpg" crc="149192525" ref="servicios"/>
+    <file name="asdf1-u81285-fr3.jpg" crc="403092736" ref="servicios"/>
+    <file name="asdf1-u81285-fr4.jpg" crc="4242774924" ref="servicios"/>
+    <file name="asdf1-u81285-fr5.jpg" crc="225136224" ref="servicios"/>
+    <file name="asdf1-u81285-fr6.jpg" crc="4113433548" ref="servicios"/>
+    <file name="asdf1-u81285-fr7.jpg" crc="4107841544" ref="servicios"/>
+    <file name="asdf1-u81285-fr8.jpg" crc="58952056" ref="servicios"/>
+    <file name="asdf1-u81285-fr9.jpg" crc="3774931498" ref="servicios"/>
+    <file name="asdf1-u81285-fr10.jpg" crc="476993401" ref="servicios"/>
+    <file name="asdf1-u81285-fr11.jpg" crc="4158879216" ref="servicios"/>
+    <file name="fotografiamenu.jpg" crc="147482210" ref="fotografía">
+      <caption webpage="fotografía" alt=""/>
+    </file>
+    <file name="21212121.jpg" crc="4018832339" ref="fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+    </file>
+    <file name="fotografiamenu-u104790-fr.jpg" crc="56172974" ref="fotografía"/>
+    <file name="21212121-u105336-fr.jpg" crc="466938351" ref="fotografía"/>
+    <file name="fotografiamenu-u305840-fr.jpg" crc="4221679383" ref="fotografía"/>
+    <file name="fotografiamenu-u104790-fr2.jpg" crc="331440627" ref="fotografía"/>
+    <file name="21212121-u105336-fr2.jpg" crc="131279680" ref="fotografía"/>
+    <file name="21212121-u105336-fr3.jpg" crc="4241879655" ref="fotografía"/>
+    <file name="seo 00.jpg" crc="520127588" ref="seo">
+      <caption webpage="seo" alt=""/>
+    </file>
+    <file name="seo 1400.jpg" crc="387538024" ref="seo">
+      <caption webpage="seo" alt=""/>
+    </file>
+    <file name="500 seo.jpg" crc="4196161528" ref="seo">
+      <caption webpage="seo" alt=""/>
+    </file>
+    <file name="500 seo-u155189-3-fr.jpg" crc="3873804394" ref="seo"/>
+    <file name="500 seo-u155189-3-fr2.jpg" crc="4058115866" ref="seo"/>
+    <file name="seo fondo .jpg" crc="4124319409" ref="seo">
+      <caption webpage="seo" alt=""/>
+    </file>
+    <file name="500 seo-u155189-3-fr3.jpg" crc="91975032" ref="seo"/>
+    <file name="seo 00-u155427-3-fr.jpg" crc="4151724490" ref="seo"/>
+    <file name="seo 00-u155427-3-fr2.jpg" crc="4235088581" ref="seo"/>
+    <file name="seo 00-u155427-3-fr3.jpg" crc="501189050" ref="seo"/>
+    <file name="seo fondo -u308823-fr.jpg" crc="421159611" ref="seo"/>
+    <file name="seo 00-u155427-3-fr4.jpg" crc="3838535894" ref="seo"/>
+    <file name="seo 00-u155427-3-fr5.jpg" crc="3998523864" ref="seo"/>
+    <file name="seo 00-u155427-3-fr6.jpg" crc="4176190292" ref="seo"/>
+    <file name="seo fondo -u308823-fr2.jpg" crc="30793592" ref="seo"/>
+    <file name="web design .jpg" crc="4191063894" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño web fondo.jpg" crc="4222233397" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño web iu.png" crc="204807015" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui.png" crc="3945422273" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u203883-fr.jpg" crc="118267449" ref="diseño-web"/>
+    <file name="diseño ui373x374.png" crc="3872193953" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u203883-fr2.jpg" crc="277117783" ref="diseño-web"/>
+    <file name="diseño web iu370x370.png" crc="194423996" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui371x372.png" crc="116162114" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u203883-fr3.jpg" crc="3963720354" ref="diseño-web"/>
+    <file name="diseño web iu300x300.png" crc="416042911" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui275x276.png" crc="4067565872" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u203883-fr4.jpg" crc="446096436" ref="diseño-web"/>
+    <file name="diseño web iu292x292.png" crc="3758782543" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui233x234.png" crc="4125644375" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u209338-fr.jpg" crc="4236755857" ref="diseño-web"/>
+    <file name="diseño web iu233x233.png" crc="3539733" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui212x213.png" crc="4155556582" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u209338-fr2.jpg" crc="163373195" ref="diseño-web"/>
+    <file name="diseño web iu261x261.png" crc="4097694959" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui210x211.png" crc="20342772" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u209338-fr3.jpg" crc="452691458" ref="diseño-web"/>
+    <file name="diseño web iu206x206.png" crc="225182539" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui193x194.png" crc="3765444952" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u209338-fr4.jpg" crc="3999539582" ref="diseño-web"/>
+    <file name="diseño web iu153x153.png" crc="3792638587" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui182x183.png" crc="4139071609" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u209338-fr5.jpg" crc="4279692030" ref="diseño-web"/>
+    <file name="diseño web iu154x154.png" crc="4209265229" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="diseño ui115x116.png" crc="4130710065" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="web design -u209338-fr6.jpg" crc="174119518" ref="diseño-web"/>
+    <file name="web design -u209338-fr7.jpg" crc="4205876444" ref="diseño-web"/>
+    <file name="diseño web iu138x138.png" crc="348666101" seo="true" ref="diseño-web">
+      <caption webpage="diseño-web" alt=""/>
+    </file>
+    <file name="redes sociales 1400.jpg" crc="450837434" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="rrsss1400 nw.jpg" crc="4165786565" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="redes sociales 1400-u240905-fr.jpg" crc="3869268751" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr2.jpg" crc="3877129604" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr3.jpg" crc="4281913639" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr4.jpg" crc="242354895" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr5.jpg" crc="167394892" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr6.jpg" crc="3925232785" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr7.jpg" crc="287410164" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr8.jpg" crc="4292172842" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr9.jpg" crc="3916876480" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr10.jpg" crc="3983415064" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr11.jpg" crc="270576872" ref="redes-sociales"/>
+    <file name="redes sociales 1400-u240905-fr12.jpg" crc="462832409" ref="redes-sociales"/>
+    <file name="dg 1400 00.jpg" crc="4199314521" ref="diseño-gráfico">
+      <caption webpage="diseño-gráfico" alt=""/>
+    </file>
+    <file name="dg 1400.jpg" crc="4173560693" ref="diseño-gráfico">
+      <caption webpage="diseño-gráfico" alt=""/>
+    </file>
+    <file name="dg 1400 00-u214122-fr.jpg" crc="386439868" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr2.jpg" crc="394715696" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr3.jpg" crc="433872650" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr4.jpg" crc="164443459" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr5.jpg" crc="4148644445" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr6.jpg" crc="408501967" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr7.jpg" crc="4103808847" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr8.jpg" crc="3831069689" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr9.jpg" crc="84408785" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr10.jpg" crc="4025413789" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr11.jpg" crc="4000946098" ref="diseño-gráfico"/>
+    <file name="dg 1400 00-u214122-fr12.jpg" crc="154807411" ref="diseño-gráfico"/>
+    <file name="797.jpg" crc="3876206852" ref="e-commerce">
+      <caption webpage="e-commerce" alt=""/>
+    </file>
+    <file name="ecomerce pro.jpg" crc="3977244602" ref="e-commerce">
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+      <caption webpage="e-commerce" alt=""/>
+    </file>
+    <file name="797-u195010-fr.jpg" crc="305366285" ref="e-commerce"/>
+    <file name="797-u195010-fr2.jpg" crc="4016345883" ref="e-commerce"/>
+    <file name="797-u195010-fr3.jpg" crc="4231842506" ref="e-commerce"/>
+    <file name="797-u195010-fr4.jpg" crc="86449261" ref="e-commerce"/>
+    <file name="797-u195010-fr5.jpg" crc="3838952603" ref="e-commerce"/>
+    <file name="797-u195010-fr6.jpg" crc="4233761491" ref="e-commerce"/>
+    <file name="797-u195010-fr7.jpg" crc="4291988771" ref="e-commerce"/>
+    <file name="797-u195010-fr8.jpg" crc="305403086" ref="e-commerce"/>
+    <file name="797-u195010-fr9.jpg" crc="53702118" ref="e-commerce"/>
+    <file name="797-u195010-fr10.jpg" crc="3817397414" ref="e-commerce"/>
+    <file name="797-u195010-fr11.jpg" crc="387843541" ref="e-commerce"/>
+    <file name="797-u195010-fr12.jpg" crc="24819797" ref="e-commerce"/>
+    <file name="797-u195010-fr13.jpg" crc="4237942603" ref="e-commerce"/>
+    <file name="work web.jpg" crc="3892494737" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web fondo.jpg" crc="480845794" ref="web:gráfico">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="af 2552x358.jpg" crc="4179334597" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="af 1552x358.jpg" crc="126321424" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="web"/>
+    <file name="work web-u285967-fr.jpg" crc="359122187" ref="web"/>
+    <file name="work web-u285967-fr2.jpg" crc="4123361511" ref="web"/>
+    <file name="work web-u285967-fr3.jpg" crc="517917391" ref="web"/>
+    <file name="work web-u285967-fr4.jpg" crc="39476780" ref="web"/>
+    <file name="work web-u285967-fr5.jpg" crc="324164192" ref="web"/>
+    <file name="work web-u285967-fr6.jpg" crc="3890666189" ref="web"/>
+    <file name="work web-u285967-fr7.jpg" crc="4002636615" ref="web"/>
+    <file name="af 2419x271.jpg" crc="3845090760" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+    </file>
+    <file name="af 1419x271.jpg" crc="90583067" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+    </file>
+    <file name="work web-u285967-fr8.jpg" crc="4236614172" ref="web"/>
+    <file name="work web-u285967-fr9.jpg" crc="3880007579" ref="web"/>
+    <file name="work web-u285967-fr10.jpg" crc="227096362" ref="web"/>
+    <file name="af 2274x178.jpg" crc="104358930" seo="true" ref="web">
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+    </file>
+    <file name="af 1274x178.jpg" crc="3971140273" seo="true" ref="web">
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+    </file>
+    <file name="work web-u285967-fr11.jpg" crc="305405971" ref="web"/>
+    <file name="work web-u285967-fr12.jpg" crc="446734136" ref="web"/>
+    <file name="af 2201x131.jpg" crc="4058358946" seo="true" ref="web">
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+    </file>
+    <file name="af 1201x131.jpg" crc="4244200147" seo="true" ref="web">
+      <caption webpage="web" alt="armaferro; web; diseño web; web design; diseño gráfico; programación;"/>
+    </file>
+    <file name="laburo fotografia.jpg" crc="3969601242" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="1400 foto work.jpg" crc="3797834787" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="u293527.png" crc="286843215" ref="fotografia"/>
+    <file name="u293527-r.png" crc="245553922" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr.jpg" crc="474320346" ref="fotografia"/>
+    <file name="u2935272.png" crc="286843215" ref="fotografia"/>
+    <file name="u293527-r2.png" crc="245553922" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr2.jpg" crc="4159494270" ref="fotografia"/>
+    <file name="u2935273.png" crc="286843215" ref="fotografia"/>
+    <file name="u293527-r3.png" crc="245553922" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr3.jpg" crc="4012919235" ref="fotografia"/>
+    <file name="u2935274.png" crc="286843215" ref="fotografia"/>
+    <file name="u293527-r4.png" crc="245553922" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr4.jpg" crc="203474661" ref="fotografia"/>
+    <file name="u2935275.png" crc="286843215" ref="fotografia"/>
+    <file name="u293527-r5.png" crc="245553922" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr5.jpg" crc="3988144994" ref="fotografia"/>
+    <file name="u294437.png" crc="427528530" ref="fotografia"/>
+    <file name="u294437-r.png" crc="197858550" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr6.jpg" crc="367537144" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr.jpg" crc="51826428" ref="fotografia"/>
+    <file name="u2944372.png" crc="427528530" ref="fotografia"/>
+    <file name="u294437-r2.png" crc="197858550" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr7.jpg" crc="4035452403" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr2.jpg" crc="454082378" ref="fotografia"/>
+    <file name="u2944373.png" crc="427528530" ref="fotografia"/>
+    <file name="u294437-r3.png" crc="197858550" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr8.jpg" crc="440152354" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr3.jpg" crc="4195387515" ref="fotografia"/>
+    <file name="u294549.png" crc="503915351" ref="fotografia"/>
+    <file name="u294549-r.png" crc="3780838765" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr9.jpg" crc="4035408813" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr4.jpg" crc="196331759" ref="fotografia"/>
+    <file name="u2945492.png" crc="503915351" ref="fotografia"/>
+    <file name="u294549-r2.png" crc="3780838765" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr10.jpg" crc="4012510316" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr5.jpg" crc="122213083" ref="fotografia"/>
+    <file name="u295183.png" crc="163177932" ref="fotografia"/>
+    <file name="u295183-r.png" crc="4104388140" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr11.jpg" crc="515315682" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr6.jpg" crc="338649629" ref="fotografia"/>
+    <file name="u2951832.png" crc="163177932" ref="fotografia"/>
+    <file name="u295183-r2.png" crc="4104388140" ref="fotografia"/>
+    <file name="laburo fotografia-u291954-fr12.jpg" crc="4073817541" ref="fotografia"/>
+    <file name="1400 foto work-u292467-fr7.jpg" crc="4258420021" ref="fotografia"/>
+    <file name="u2951833.png" crc="163177932" ref="fotografia"/>
+    <file name="u295183-r3.png" crc="4104388140" ref="fotografia"/>
+    <file name="work frafico.jpg" crc="232747851" ref="gráfico">
+      <caption webpage="gráfico" alt=""/>
+    </file>
+    <file name="u297313.png" crc="156334680" ref="gráfico"/>
+    <file name="u297313-r.png" crc="173334216" ref="gráfico"/>
+    <file name="work frafico-u296672-fr.jpg" crc="4230476434" ref="gráfico"/>
+    <file name="u2973132.png" crc="156334680" ref="gráfico"/>
+    <file name="u297313-r2.png" crc="173334216" ref="gráfico"/>
+    <file name="work frafico-u296672-fr2.jpg" crc="3919526942" ref="gráfico"/>
+    <file name="u2973133.png" crc="156334680" ref="gráfico"/>
+    <file name="u297313-r3.png" crc="173334216" ref="gráfico"/>
+    <file name="work frafico-u296672-fr3.jpg" crc="412709391" ref="gráfico"/>
+    <file name="u297668.png" crc="3927166331" ref="gráfico"/>
+    <file name="u297668-r.png" crc="4115810199" ref="gráfico"/>
+    <file name="work frafico-u296672-fr4.jpg" crc="3821952231" ref="gráfico"/>
+    <file name="u2976682.png" crc="3927166331" ref="gráfico"/>
+    <file name="u297668-r2.png" crc="4115810199" ref="gráfico"/>
+    <file name="1400 mkd.jpg" crc="3974663857" ref="marketing-digital">
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="mkg img.jpg" crc="336296988" ref="marketing-digital">
+      <caption webpage="marketing-digital" alt=""/>
+    </file>
+    <file name="1400 mkd-u156471-fr.jpg" crc="489268417" ref="marketing-digital"/>
+    <file name="500 mkd-u157512-fr.jpg" crc="275193776" ref="marketing-digital"/>
+    <file name="500 mkd-u157512-fr2.jpg" crc="127485993" ref="marketing-digital"/>
+    <file name="500 mkd-u157512-fr3.jpg" crc="389857450" ref="marketing-digital"/>
+    <file name="500 mkd-u157512-fr4.jpg" crc="4186239556" ref="marketing-digital"/>
+    <file name="foto corp.jpg" crc="3846315429" ref="corporativa">
+      <caption webpage="corporativa" alt=""/>
+    </file>
+    <file name="benjamin-child-17946-unsplash.jpg" crc="104951491" ref="corporativa">
+      <caption webpage="corporativa" alt=""/>
+    </file>
+    <file name="benjamin-child-17946-unsplash2222222.jpg" crc="4277685822" ref="corporativa">
+      <caption webpage="corporativa" alt=""/>
+    </file>
+    <file name="benjamin-child-17946-unsplash-u126389-fr.jpg" crc="3830840295" ref="corporativa"/>
+    <file name="benjamin-child-17946-unsplash2222222-u126400-fr.jpg" crc="4171161996" ref="corporativa"/>
+    <file name="9922-u128999-fr.jpg" crc="3862277169" ref="corporativa"/>
+    <file name="9922-u128999-fr2.jpg" crc="501534555" ref="corporativa"/>
+    <file name="9922-u128999-fr3.jpg" crc="4057255675" ref="corporativa"/>
+    <file name="9922-u128999-fr4.jpg" crc="495925739" ref="corporativa"/>
+    <file name="corporativa 00.jpg" crc="4218065549" ref="corporativa">
+      <caption webpage="corporativa" alt=""/>
+    </file>
+    <file name="benjamin-child-17946-unsplash-u126389-fr2.jpg" crc="4100038347" ref="corporativa"/>
+    <file name="ecommerce1400.jpg" crc="4108625951" ref="ecommerce">
+      <caption webpage="ecommerce" alt=""/>
+    </file>
+    <file name="ecomm foto.jpg" crc="212770691" ref="ecommerce">
+      <caption webpage="ecommerce" alt=""/>
+    </file>
+    <file name="ecommerce1400-u145913-fr.jpg" crc="3878931448" ref="ecommerce"/>
+    <file name="ecommerce1400-u145913-fr2.jpg" crc="3844470321" ref="ecommerce"/>
+    <file name="ecommerce1400-u145913-fr3.jpg" crc="414229638" ref="ecommerce"/>
+    <file name="ecommerce1400-u145913-fr4.jpg" crc="4009973344" ref="ecommerce"/>
+    <file name="ecommerce1400-u145913-fr5.jpg" crc="3779162453" ref="ecommerce"/>
+    <file name="ecommerce1400-u145913-fr6.jpg" crc="4095307362" ref="ecommerce"/>
+    <file name="ecommerce1400-u145913-fr7.jpg" crc="3762382925" ref="ecommerce"/>
+  </folder>
+  <file name="index.html" crc="3978685854" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="contacto.html" crc="3895123608" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="blog.html" crc="4116455822" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="trabajos.html" crc="4076629103" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="servicios.html" crc="315047942" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="fotografía.html" crc="352233342" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="seo.html" crc="228036415" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="diseño-web.html" crc="380892785" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="redes-sociales.html" crc="4210502299" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="diseño-gráfico.html" crc="42533196" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="e-commerce.html" crc="66234520" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="web.html" crc="3978271309" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="fotografia.html" crc="448680797" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="gráfico.html" crc="4134183808" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="marketing-digital.html" crc="1822574" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="corporativa.html" crc="4081424768" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="ecommerce.html" crc="3950260640" seo="true" mt="1596547620047" redirect="true"/>
+  <file name="personal.html" crc="4021801427" seo="true" mt="1596547620047" redirect="true"/>
+</manifest>
